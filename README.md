@@ -1,2 +1,2 @@
-# fibonaccinumbergi
-This program will give you the fibonacci number of your choice.
+# fibonacci numbers
+This program will give you a certain number of fibonacci numbers at your request.
